@@ -1,0 +1,12 @@
+{
+    "width": 512,
+    "height": 512,
+    "max_size_mb": 20,
+    "batch_size": 10,
+    "model_name": "gpt-4o-mini",
+    "rtsp_urls": [
+        "output_cam2_20240819-122110.avi"
+    ],
+    "username": "admin",
+    "password": "Mayocabo1"
+}

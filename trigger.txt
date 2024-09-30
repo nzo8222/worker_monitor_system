@@ -1,0 +1,3 @@
+Trigger for Image ID: 5e35681f-9317-4a94-8271-0a77ff00ed42, worker 1, is not wearing Item: knee_protector, Value: 0
+
+==================================================

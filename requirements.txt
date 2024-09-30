@@ -1,0 +1,8 @@
+opencv-python
+openai
+ipython
+python-dotenv
+requests
+Pillow
+imutils
+streamlit
